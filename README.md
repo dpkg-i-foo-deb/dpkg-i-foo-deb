@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @dpkg-i-foo-deb
-- 👀 I’m interested in learning new stuff about Android, specifically building it by myself, as well as Java, Kotlin and C development...
-- 🌱 I’m currently learning the Java Programming language, as well as some basic stuff in C, I like to learn how the Linux Kernel works...
-- 💞️ I’m looking to collaborate on the Android Open Source Project as soon as I learn how to be useful there..
+Years ago I discovered there was a kind of software that won't tie me to a creepy license... Not designed to send tons and tons of telemetry without even myself actually consenting it. By that time I decided to change my entire workflow as well as lifestyle around software. However, I want not only to use FOSS software but also to contribute to its amazing community.
 
+I currently have very basic programming skills in C, Java and Kotlin... I like following instructions the most but I also want to create my own stuff, that's why I want to learn and develop some silly apps in Android.
